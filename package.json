@@ -1,0 +1,26 @@
+{
+  "name": "vektr_animatableimagelib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for animating the Vektr Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vektr-libs/animatableimage.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "vektr",
+    "animatable",
+    "image",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vektr-libs/animatableimage/issues"
+  },
+  "homepage": "https://github.com/vektr-libs/animatableimage#readme"
+}
